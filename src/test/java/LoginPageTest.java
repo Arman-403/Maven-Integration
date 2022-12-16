@@ -7,6 +7,7 @@ import org.testng.annotations.*;
         WebDriver driver;
 
         @BeforeMethod
+
         public void beforemethod() {
             driver = LaunchSite();
         }
