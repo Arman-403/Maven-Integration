@@ -34,8 +34,6 @@
 
     </dependencies>
     <build>
-
-
         <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -44,7 +42,10 @@
                 <configuration>
                     <suiteXmlFiles>
 
+
                         <suiteXmlFile>Multabs.xml</suiteXmlFile>
+
+
                     </suiteXmlFiles>
                 </configuration>
             </plugin>
