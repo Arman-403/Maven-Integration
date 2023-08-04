@@ -44,9 +44,7 @@
                 <configuration>
                     <suiteXmlFiles>
 
-
                         <suiteXmlFile>Multabs.xml</suiteXmlFile>
-
 
                     </suiteXmlFiles>
                 </configuration>
